@@ -1,0 +1,19 @@
+uuid = 5f2239d7-8b57-11e9-a624-22bf7e0792b2
+name = 
+tool_name = xtrabackup
+tool_command = --user=root --password=... --backup --target-dir=/data/openmrs//20190610134129_full/ --databases openmrs
+tool_version = 2.4.5
+ibbackup_version = 2.4.5
+server_version = 5.6.43
+start_time = 2019-06-10 13:41:33
+end_time = 2019-06-10 13:41:38
+lock_time = 0
+binlog_pos = 
+innodb_from_lsn = 0
+innodb_to_lsn = 3308544277
+partial = Y
+incremental = N
+format = file
+compact = N
+compressed = N
+encrypted = N
